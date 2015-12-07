@@ -7,9 +7,12 @@ gem 'rails', '4.2.4'
 gem 'pg'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
+# gem 'sass-rails', '~> 5.0'
 # gem 'sass-rails', github: 'rails/sass-rails', branch: '4-0-stable'
-# gem 'sass-rails', '4.0.3'
+# gem 'sass-rails', '4.0.4'
+gem 'sass', '~> 3.2.19'
+gem 'compass', '~> 0.12.7'
+gem 'compass-rails', '~> 2.0.0'
 
 
 # Use Uglifier as compressor for JavaScript assets
@@ -30,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 ########## added by admin ##############
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+# gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'simple_form', '~> 3.2'
 gem 'mailchimp-api', '~> 2.0', '>= 2.0.6'
 gem 'responders', '~> 2.1'
