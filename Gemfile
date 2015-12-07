@@ -31,7 +31,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 ########## added by admin ##############
 # gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
-# gem 'simple_form', '~> 3.2'
+gem 'simple_form', '~> 3.2'
 gem 'mailchimp-api', '~> 2.0', '>= 2.0.6'
 gem 'responders', '~> 2.1'
 gem 'rails_12factor'
