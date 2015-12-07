@@ -5,10 +5,12 @@ ruby "2.2.3"
 gem 'rails', '4.2.4'
 # Use postgresql as the database for Active Record
 gem 'pg'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # gem 'sass-rails', github: 'rails/sass-rails', branch: '4-0-stable'
 # gem 'sass-rails', '4.0.3'
+
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -28,8 +30,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 ########## added by admin ##############
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
-gem 'simple_form', '~> 3.2'
+# gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
+# gem 'simple_form', '~> 3.2'
 gem 'mailchimp-api', '~> 2.0', '>= 2.0.6'
 gem 'responders', '~> 2.1'
 gem 'rails_12factor'
