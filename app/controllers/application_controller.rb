@@ -20,4 +20,6 @@ def setup_mcapi
   @list_id = Rails.application.secrets.mailchimp_list_id
 end
 
+
+
 end
