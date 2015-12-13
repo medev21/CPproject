@@ -457,3 +457,7 @@ body {
 a:visited {
   color: #fff;
 }
+
+.site-title{
+  font-family: 'reklame_script_regular_demoRg', 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
