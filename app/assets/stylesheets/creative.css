@@ -458,6 +458,6 @@ a:visited {
   color: #fff;
 }
 
-.site-title{
+.site-title, .navbar-brand{
   font-family: 'reklame_script_regular_demoRg', 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
