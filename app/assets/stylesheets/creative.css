@@ -447,3 +447,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+
+/*added by rails dev*/
+.subtitle-phrase, .footer-title{
+  font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+}
+
+a:visited {
+  color: #fff;
+}
