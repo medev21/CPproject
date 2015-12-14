@@ -458,6 +458,18 @@ a:visited {
   color: #fff;
 }
 
-.site-title, .navbar-brand{
+/*.site-title, .navbar-brand{
   font-family: 'reklame_script_regular_demoRg', 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}*/
+
+@font-face {
+    font-family: 'reklame_script_regular_demoRg';
+    src: url('ReklameScript-Regular_DEMO-webfont.eot');
+    src: url('ReklameScript-Regular_DEMO-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ReklameScript-Regular_DEMO-webfont.woff2') format('woff2'),
+         url('ReklameScript-Regular_DEMO-webfont.woff') format('woff'),
+         url('ReklameScript-Regular_DEMO-webfont.ttf') format('truetype'),
+         url('ReklameScript-Regular_DEMO-webfont.svg#reklame_script_regular_demoRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
