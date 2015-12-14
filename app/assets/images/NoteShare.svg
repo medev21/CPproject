@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="504px" height="504px" viewBox="0 0 504 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>NoteShare</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dec13-Updates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="NoteShare" sketch:type="MSLayerGroup" transform="translate(2.000000, 88.000000)">
+            <g id="BigPerson" transform="translate(0.000000, 114.451505)" stroke="#0B0B0B" stroke-width="3" sketch:type="MSShapeGroup" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <ellipse id="Head-Copy-2" cx="42.6276389" cy="25.3411306" rx="25.3411306" ry="25.3411306"></ellipse>
+                <path d="M42.6260963,57.0259546 C51.1733977,57.0259546 61.1446149,52.6315789 61.1446149,52.6315789 L85.9019654,117.093588 L0,117.093586 L24.107578,52.6315789 C24.107578,52.6315789 34.0787949,57.0259546 42.6260963,57.0259546 Z" id="Line-Copy-22"></path>
+            </g>
+            <g id="BottomPerson" transform="translate(374.115112, 250.936940)" stroke="#0B0B0B" stroke-width="3" sketch:type="MSShapeGroup" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <ellipse id="Head-Copy-2" cx="27.3206235" cy="15.1392544" rx="15.1026862" ry="15.1392544"></ellipse>
+                <path d="M27.3119383,34.5138878 C32.7576163,34.5138878 39.1105031,31.7141323 39.1105031,31.7141323 L54.883968,72.784328 L0.153893506,72.7843271 L15.5133737,31.7141323 C15.5133737,31.7141323 21.8662603,34.5138878 27.3119383,34.5138878 Z" id="Line-Copy-25"></path>
+            </g>
+            <g id="MidPerson" transform="translate(374.115112, 124.472688)" stroke="#0B0B0B" stroke-width="3" sketch:type="MSShapeGroup" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <ellipse id="Head-Copy-2" cx="27.3206235" cy="15.1392544" rx="15.1026862" ry="15.1392544"></ellipse>
+                <path d="M27.3119383,34.2724863 C32.7576163,34.2724863 39.1105031,31.4727307 39.1105031,31.4727307 L54.883968,72.5429264 L0.153893506,72.5429255 L15.5133737,31.4727307 C15.5133737,31.4727307 21.8662603,34.2724863 27.3119383,34.2724863 Z" id="Line-Copy-24"></path>
+            </g>
+            <g id="TopPerson" transform="translate(374.115112, 0.000000)" stroke="#0B0B0B" stroke-width="3" sketch:type="MSShapeGroup" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <ellipse id="Head-Copy-2" cx="27.3206235" cy="15.1392544" rx="15.1026862" ry="15.1392544"></ellipse>
+                <path d="M27.3119383,33.9888394 C32.7576163,33.9888394 39.1105031,31.1890838 39.1105031,31.1890838 L54.883968,72.2592796 L0.153893506,72.2592787 L15.5133737,31.1890838 C15.5133737,31.1890838 21.8662603,33.9888394 27.3119383,33.9888394 Z" id="Line-Copy-23"></path>
+            </g>
+            <g id="NotesBIG" transform="translate(155.975594, 92.607680)">
+                <rect id="Rectangle-7-Copy-2" stroke="#0B0B0B" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="121.485344" height="153.79588"></rect>
+                <path d="M19.8581812,64.310889 L103.963419,64.310889" id="Line" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M19.8581812,87.6966668 L103.963419,87.6966668" id="Line-Copy" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M19.8581812,111.082445 L103.963419,111.082445" id="Line-Copy-2" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <text id="NOTES" sketch:type="MSTextLayer" font-family="Avenir" font-size="22.8130013" font-weight="686" sketch:alignment="middle" letter-spacing="1.20000005" fill="#000000">
+                    <tspan x="19.8435354" y="32.3543111">NOTES</tspan>
+                </text>
+            </g>
+            <g id="NotesBottom" transform="translate(446.743794, 253.924284)">
+                <rect id="Rectangle-7-Copy-2" stroke="#0B0B0B" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="5.56485122e-14" width="51.7806384" height="65.487278"></rect>
+                <path d="M8.46414281,27.3839915 L44.3122771,27.3839915" id="Line" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,37.3418065 L44.3122771,37.3418065" id="Line-Copy" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,47.2996216 L44.3122771,47.2996216" id="Line-Copy-2" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <text id="NOTES" sketch:type="MSTextLayer" font-family="Avenir" font-size="9.95781507" font-weight="686" sketch:alignment="middle" letter-spacing="1.20000005" fill="#000000">
+                    <tspan x="6.33545151" y="13.983126">NOTES</tspan>
+                </text>
+            </g>
+            <g id="NotesMid" transform="translate(446.743794, 127.460033)">
+                <rect id="Rectangle-7-Copy-2" stroke="#0B0B0B" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="51.7806384" height="65.487278"></rect>
+                <path d="M8.46414281,27.3839915 L44.3122771,27.3839915" id="Line" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,37.3418065 L44.3122771,37.3418065" id="Line-Copy" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,47.2996216 L44.3122771,47.2996216" id="Line-Copy-2" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <text id="NOTES" sketch:type="MSTextLayer" font-family="Avenir" font-size="9.95781507" font-weight="686" sketch:alignment="middle" letter-spacing="1.20000005" fill="#000000">
+                    <tspan x="6.33545151" y="13.983126">NOTES</tspan>
+                </text>
+            </g>
+            <g id="NotesTop" transform="translate(446.743794, 3.962003)">
+                <rect id="Rectangle-7-Copy-2" stroke="#0B0B0B" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="51.7806384" height="65.487278"></rect>
+                <path d="M8.46414281,47.2996216 L44.3122771,47.2996216" id="Line-Copy-2" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,37.3418065 L44.3122771,37.3418065" id="Line-Copy" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M8.46414281,27.3839915 L44.3122771,27.3839915" id="Line" stroke="#19804D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <text id="NOTES" sketch:type="MSTextLayer" font-family="Avenir" font-size="9.74658869" font-weight="686" sketch:alignment="middle" letter-spacing="1.20000005" fill="#000000">
+                    <tspan x="6.69717669" y="13.983126">NOTES</tspan>
+                </text>
+            </g>
+            <path d="M85.3294226,169.780747 L143.321625,169.780747" id="Line" stroke="#0B0B0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6" sketch:type="MSShapeGroup"></path>
+            <path d="M293.891333,169.780747 L362.600257,169.780747" id="Line-Copy-11" stroke="#0B0B0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6" sketch:type="MSShapeGroup"></path>
+            <path d="M303.849148,79.1646298 L352.144551,51.7806384" id="Line-Copy-3" stroke="#0B0B0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6" sketch:type="MSShapeGroup"></path>
+            <path d="M351.646661,273.342024 L303.351257,245.958032" id="Line-Copy-10" stroke="#0B0B0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

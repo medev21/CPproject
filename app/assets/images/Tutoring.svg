@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="504px" height="504px" viewBox="0 0 504 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Tutoring</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dec13-Updates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tutoring" sketch:type="MSLayerGroup" transform="translate(0.000000, 134.000000)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Person-1" transform="translate(123.724490, 0.000000)" stroke="#0B0B0B" sketch:type="MSShapeGroup" fill="#FFFFFF">
+                <ellipse id="Head-Copy-2" cx="56.122449" cy="33.1290323" rx="33.1632653" ry="33.1290323"></ellipse>
+                <path d="M56.122449,74.5513181 C67.3080756,74.5513181 80.3571429,68.8064516 80.3571429,68.8064516 L112.756431,153.079091 L0.338807601,153.079089 L31.8877553,68.8064516 C31.8877553,68.8064516 44.9368224,74.5513181 56.122449,74.5513181 Z" id="Line-Copy-21"></path>
+            </g>
+            <g id="Person-1-Copy-2" transform="translate(264.030612, 0.000000)" stroke="#0B0B0B" sketch:type="MSShapeGroup" fill="#FFFFFF">
+                <ellipse id="Head-Copy-2" cx="56.122449" cy="33.1290323" rx="33.1632653" ry="33.1290323"></ellipse>
+                <path d="M56.122449,74.5513181 C67.3080756,74.5513181 80.3571429,68.8064516 80.3571429,68.8064516 L112.756431,153.079091 L0.338807601,153.079089 L31.8877553,68.8064516 C31.8877553,68.8064516 44.9368224,74.5513181 56.122449,74.5513181 Z" id="Line"></path>
+            </g>
+            <path d="M0,154.177419 L500,154.177419" id="Table" stroke="#0B0B0B" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <g id="Paper-1" transform="translate(174.744898, 165.645161)" sketch:type="MSShapeGroup">
+                <path d="M19.0381372,0.811268837 L60.0427693,14.9157215 L42.1863526,66.7209892 L1.18172053,52.6165366 L19.0381372,0.811268837 L19.0381372,0.811268837 Z" id="Rectangle-2" stroke="#0B0B0B" fill="#FFFFFF"></path>
+                <path d="M13.3928571,43.9596774 L37.627551,52.8790323" id="Line" stroke="#19804D"></path>
+                <path d="M17.2193878,35.0403226 L41.4540816,43.9596774" id="Line-Copy-5" stroke="#19804D"></path>
+            </g>
+            <g id="Paper-Stack" transform="translate(265.306122, 159.274194)" sketch:type="MSShapeGroup">
+                <g id="Bottom" transform="translate(0.000000, 10.193548)">
+                    <path d="M19.0381372,66.7209892 L60.0427693,52.6165366 L42.1863526,0.811268837 L1.18172053,14.9157215 L19.0381372,66.7209892 L19.0381372,66.7209892 Z" id="Mask" stroke="#0B0B0B" fill="#FFFFFF"></path>
+                    <path d="M23.5969388,42.6854839 L47.8316327,51.6048387" id="Line-Copy-6" stroke="#19804D" transform="translate(35.714286, 47.145161) scale(1, -1) translate(-35.714286, -47.145161) "></path>
+                </g>
+                <g id="Top-Copy" transform="translate(5.102041, 0.000000)">
+                    <path d="M19.0381372,66.7209892 L60.0427693,52.6165366 L42.1863526,0.811268837 L1.18172053,14.9157215 L19.0381372,66.7209892 L19.0381372,66.7209892 Z" id="Mask" stroke="#0B0B0B" fill="#FFFFFF"></path>
+                    <path d="M23.5969388,42.6854839 L47.8316327,51.6048387" id="Line-Copy-6" stroke="#19804D" transform="translate(35.714286, 47.145161) scale(1, -1) translate(-35.714286, -47.145161) "></path>
+                </g>
+            </g>
+            <g id="Book-Stack" transform="translate(395.408163, 104.483871)" stroke="#0B0B0B" sketch:type="MSShapeGroup">
+                <g id="Book" transform="translate(10.204082, 33.129032)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+                <g id="Book-Copy" transform="translate(35.714286, 24.846774) scale(-1, 1) translate(-35.714286, -24.846774) translate(0.000000, 16.564516)" fill="#FFFFFF">
+                    <rect id="Rectangle-10" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+                <g id="Book-Copy-2" transform="translate(11.479592, 0.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-10" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+            </g>
+            <g id="Book-Stack-Copy" transform="translate(64.413265, 129.330645) scale(-1, 1) translate(-64.413265, -129.330645) translate(22.959184, 104.483871)" stroke="#0B0B0B" sketch:type="MSShapeGroup" fill="#FFFFFF">
+                <g id="Book" transform="translate(10.204082, 33.129032)">
+                    <rect id="Rectangle-10" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+                <g id="Book-Copy" transform="translate(35.714286, 24.846774) scale(-1, 1) translate(-35.714286, -24.846774) translate(0.000000, 16.564516)">
+                    <rect id="Rectangle-10" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+                <g id="Book-Copy-2" transform="translate(11.479592, 0.000000)">
+                    <rect id="Rectangle-10" x="0" y="0" width="71.4285714" height="16.5645161"></rect>
+                    <path d="M58.0357143,1.91129032 L58.0357143,14.6532258" id="Line"></path>
+                    <path d="M49.1071429,1.91129032 L49.1071429,14.6532258" id="Line-Copy-9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
