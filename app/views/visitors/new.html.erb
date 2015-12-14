@@ -31,32 +31,37 @@
 
 <section class="bg-primary" id="about">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">How It Works</h2>
-                <hr class="light">
-                <p class="p-questions">Want to get an on-demand, on-campus tutoring session a few hours right before your exam?</p>
-                <p class="p-questions">Struggling to find past exams?</p>
-                <p class="p-questions">Want to get deeper insight from your peers on your professors exams and assignments?</p>
-                <p class="p-questions">Feel like meeting new people and don’t know where?</p>
-                <p class="text-faded">Campus Perks aims to serve as a community enhancer, bringing students closer together and help each other. Through a community effort, we want to help you to be better at what you do, increase your learning experience on campus  and save more money using our perks:</p>
-            </div>
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p class="p-questions">Want to get an on-demand, on-campus tutoring session a few hours right before your exam?</p>
+            <p class="p-questions">Struggling to find past homework solutions?</p>
+            <p class="p-questions">Feel like meeting new people and don’t know where?</p>
+            <hr class="light">
+            <h2 class="section-heading">How It Works</h2>
+            <p class="text-faded">Campus Perks aims to serve as your school's community enhancer to help you get the most out of your educational experience. Through a collective effort, we want to help you to be better at what you do and improve your experience on campus to help you grow as an individual. Our online platform connects you to your fellow classmates to share knowledge through the following services:</p>
+        </div>
         <div class="row">
             <div class="col-md-4 text-center">
                 <%= image_tag "Tutoring.png", class: "img-responsive" %>
-                <h3>Peer Tutoring Perk</h3>
-                    <p class="text-faded">Get tutored by a friend or a peer from your campus (paired or group sessions) who took the same class with the same professor you are taking. Get insights on their exams and homework all while getting to know your peers better. Make a quick buck teaching fellow peers during those long hours between classes. Set your own rate and schedule appointment at your own convenience to get the best matches of tutors.</p>
+                <h3>Peer Tutoring</h3>
+                    <p class="text-faded">Get tutored in your subject by peers who took the same class and professor. Get insights on their homework and exams, all while getting to know your peers better. Make a quick buck by teaching fellow peers between classes. Set your own rate and schedule appointments at your own convenience.</p>
             </div>
             <div class="col-md-4 text-center">
                 <%= image_tag "NoteShare.png", class: "img-responsive" %>
 
-                <h3>NoteShare Perk</h3>
+                <h3>Note Sharing</h3>
                     <p class="text-faded">Post past exams, homework solution and papers on Campus Perks helping out your peers. Like, share and comment on their notes and learn from them through the comment section.</p>
             </div>
             <div class="col-md-4 text-center">
                 <%= image_tag "Events.png", class: "img-responsive" %>
-                <h3>On-Campus Events Perk</h3>
+                <h3>On-Campus Events</h3>
                     <p class="text-faded">Create and invite your peers to join your On-Campus events. Attend other events that are posted and get to know like-minded individuals.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2>We want to help! More perks coming soon...</h2>
             </div>
         </div>
 
@@ -68,7 +73,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Sign Up Today</h2>
-                <h3>Tell us why you're ready for the final frontier.</h3>
+                <h3>Join our mailing list to keep up with our latest updates.</h3>
                 <hr class="primary">
             </div>
         </div>
@@ -79,7 +84,7 @@
               <%= simple_form_for @visitor do |f| %>
                 <%= f.error_notification %>
                 <%= f.input :full_name, label: false, :placeholder => 'Your name...' %>
-                <%= f.input :campus_name, label: false, :placeholder => 'Your campus name...' %>
+                <%= f.input :campus_name, label: false, :placeholder => 'Your college/university name...' %>
                 <%= f.input :email, label: false, :placeholder => 'Your email address...' %>
                 <br/>
                 <%= f.button :submit, "Subscribe", :class => "submit" %>
